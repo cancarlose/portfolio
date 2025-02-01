@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-server">
+   <rect x="8" y="8" width="48" height="16" rx="2" ry="2"></rect>
+   <rect x="8" y="24" width="48" height="16" rx="2" ry="2"></rect>
+   <rect x="8" y="40" width="48" height="16" rx="2" ry="2"></rect>
+   <path d="M24 16v-4M40 16v-4M24 32v-4M40 32v-4M24 48v-4M40 48v-4"></path>
+</svg>
