@@ -22,6 +22,7 @@ export const gridItems = [
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
+    
     titleClassName: "justify-start",
     img: "",
     spareImg: "",
@@ -82,8 +83,7 @@ export const projects = [
     title: "Automação de Processos com N8N",
     des: "Simplifique e automatize fluxos de trabalho com o n8n. Conecte sistemas, integre APIs e crie automações personalizadas para otimizar tarefas repetitivas e aumentar a produtividade da sua equipe.",
     img: "/p2.svg",
-    iconLists: ["/n8n.svg"],
-    link: "/ui.yoom.com",
+    iconLists: ["/n8n.svg"], // Ícone do N8N
   },
   {
     id: 3,
@@ -91,7 +91,6 @@ export const projects = [
     des: "Transforme bancos de dados em poderosas planilhas colaborativas com o NocoDB. Gerencie, visualize e compartilhe seus dados de forma intuitiva, sem complicações técnicas.",
     img: "/p3.svg",
     iconLists: ["/nocodb.svg"], // Ícone de NocoDB
-    link: "/ui.aiimg.com",
   },
   {
     id: 4,
@@ -99,15 +98,13 @@ export const projects = [
     des: "Estruture seus dados com um dos bancos de dados mais robustos do mercado. O PostgreSQL oferece alta escalabilidade, confiabilidade e segurança para aplicações de qualquer porte.",
     img: "/p4.svg",
     iconLists: ["/postgres.svg"], // Ícone de PostgreSQL
-    link: "/ui.apple.com",
   },
   {
     id: 5,
     title: "Máquinas Virtuais Sob Medida para Seu Negócio",
     des: "Hospede suas aplicações em ambientes virtuais otimizados. Oferecemos VMs configuradas para atender às suas necessidades, garantindo flexibilidade, segurança e alto desempenho.",
-    img: "/p5.svg", // Atualizei para um nome de imagem diferente para este projeto
+    img: "/p5.svg",
     iconLists: ["/vm-icon.svg"], // Ícone de Máquina Virtual
-    link: "/ui.apple.com",
   },
 ];
 
