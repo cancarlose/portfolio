@@ -1,3 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-   <path d="M0 80v352c0 17.67 14.33 32 32 32h448c17.67 0 32-14.33 32-32V80c0-17.67-14.33-32-32-32H32C14.33 48 0 62.33 0 80zm288 32h128v128H288V112zm0 160h128v128H288V272zm-160-160h128v128H128V112zm0 160h128v128H128V272z"></path>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.cls-1{fill:#424242}.cls-2{fill:#42a5f5}</style></defs><g id="Local_Network" data-name="Local Network"><path class="cls-1" d="M10 10h2v20h-2zM15 5h11v2H15z"/><rect class="cls-2" x="9" y="4" width="4" height="4" rx="1"/><path class="cls-1" d="M22 37h11v2H22zM36 18h2v16h-2z"/><rect class="cls-2" x="35" y="36" width="4" height="4" rx="1"/><path class="cls-2" d="M20 44V34a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v10H0v2a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2v-2zM4 44V34h14v10zM46 12V3a3 3 0 0 0-3-3H31a3 3 0 0 0-3 3v9h-2v2a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2v-2zM30 3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v9H30z"/></g></svg>

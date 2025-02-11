@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-   <circle cx="50" cy="50" r="45" stroke="black" stroke-width="2" fill="white"/>
-   <text x="50%" y="50%" text-anchor="middle" stroke="#51c5cf" stroke-width="1px" dy=".3em" font-size="30px">PG</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.cls-2{fill:#42a5f5}</style></defs><g id="Data_Computers" data-name="Data Computers"><path d="M38 8.09v1.8c-.63.74-5.36 2.11-14 2.11s-13.36-1.37-14-2.11v-1.8a10.06 10.06 0 0 1-2-1V16c0 3.45 11.32 3.93 15 4v4.28a1.91 1.91 0 0 0-.72.72H11a1 1 0 0 0-1 1v4h2v-3h10.28a2 2 0 0 0 3.44 0H36v3h2v-4a1 1 0 0 0-1-1H25.72a1.91 1.91 0 0 0-.72-.72V20c3.68-.06 15-.54 15-4V7.11a10.06 10.06 0 0 1-2 .98zm0 7.8c-.64.74-5.37 2.11-14 2.11s-13.36-1.37-14-2.11v-3.74C14 13.93 22.74 14 24 14s10-.07 14-1.85z" style="fill:#424242"/><ellipse class="cls-2" cx="24" cy="4" rx="16" ry="4"/><path class="cls-2" d="M20 44V34a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v10H0v2a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2v-2zM4 44V34h14v10zM46 44V34a2 2 0 0 0-2-2H30a2 2 0 0 0-2 2v10h-2v2a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2v-2zm-16 0V34h14v10z"/></g></svg>
